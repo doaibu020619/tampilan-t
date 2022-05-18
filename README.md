@@ -5,5 +5,5 @@ Follow The Steps Below!
 > apt install python2 -y
 > apt install git -y
 > git clone https://github.com/doaibu020619/tampilan-t
-> cd T4MPILAN-V5
+> cd tampilan-t
 > python2 style5.py
